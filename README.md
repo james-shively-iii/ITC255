@@ -1,1 +1,1 @@
-This has stuff in it
+All collaborators in this repository will create a separate branch that will be merged later into the master branch.  If you do not know how to do this, you can contact me at jamesshively2486@gmail.com and I will walk you through the steps in doing this.
