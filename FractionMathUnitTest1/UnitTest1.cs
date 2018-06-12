@@ -40,5 +40,13 @@ namespace FractionMathUnitTest1
             Fraction f3 = f1 * f2;
             Assert.AreEqual(f3.ToString(), "1/12");
         }
+        [TestMethod]
+        public void TestComparitive()
+        {
+            Fraction f1 = new Fraction("1/3");
+            Fraction f2 = new Fraction("1/4");
+
+            Assert.IsTrue(f1 > f2);
+        }
     }
 }
