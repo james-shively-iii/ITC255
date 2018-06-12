@@ -1,0 +1,7 @@
+C:\Users\jshively\source\repos\FractionMath\FractionMath\bin\Debug\FractionMath.exe.config
+C:\Users\jshively\source\repos\FractionMath\FractionMath\bin\Debug\FractionMath.exe
+C:\Users\jshively\source\repos\FractionMath\FractionMath\bin\Debug\FractionMath.pdb
+C:\Users\jshively\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.csprojResolveAssemblyReference.cache
+C:\Users\jshively\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.csproj.CoreCompileInputs.cache
+C:\Users\jshively\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.exe
+C:\Users\jshively\source\repos\FractionMath\FractionMath\obj\Debug\FractionMath.pdb

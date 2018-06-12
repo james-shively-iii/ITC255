@@ -1,0 +1,17 @@
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\FractionMathUnitTest1.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\FractionMathUnitTest1.pdb
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\FractionMath.exe
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\FractionMath.pdb
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\FractionMath.exe.config
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\obj\Debug\FractionMathUnitTest1.csprojResolveAssemblyReference.cache
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\obj\Debug\FractionMathUnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\obj\Debug\FractionMathUnitTest1.csproj.CopyComplete
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\obj\Debug\FractionMathUnitTest1.dll
+C:\Users\jshively\source\repos\FractionMath\FractionMathUnitTest1\obj\Debug\FractionMathUnitTest1.pdb
